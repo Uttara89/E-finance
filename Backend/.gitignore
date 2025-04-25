@@ -13,7 +13,7 @@ jspm_packages/
 bower_components/
 
 # Environment variables
-
+.env
 
 # Build directories
 dist/
